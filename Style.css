@@ -6,6 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color:rgb(222, 218, 218);
 }
 
 
@@ -127,3 +128,4 @@ body{
 #radio8:checked ~ .navigation-auto .auto-btn8{
     background-color: #d8d4d4;
 }
+
